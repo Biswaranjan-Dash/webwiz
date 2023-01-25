@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    background-color: yellowgreen;
+
+}
+h1{
+    text-align: center;
+    font-size: 2000%;
+}
+a{
+    font-size: 125px;
+    text-align: center;
+    color: darkred;
+}
